@@ -48,14 +48,8 @@ To set up the project environment, follow these steps:
 1. Clone the repository:
     ```bash
     git clone <repository-link>
-    ```
 
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Jupyter notebook or Python script to train and evaluate the model.
+2. Run the Jupyter notebook or Python script to train and evaluate the model.
 
 ## Dataset
 
